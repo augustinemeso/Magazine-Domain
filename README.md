@@ -65,6 +65,7 @@ Python 3.8+
 pipenv install
 pipenv shell
 python -m pytest (for testing)
+Github
 
 ##### Expected Features
 
@@ -75,4 +76,4 @@ Author Class
 #### Support and Contact Details
 
 You can view my GitHub repository for this project here:
-
+https://github.com/augustinemeso/Magazine-Domain
