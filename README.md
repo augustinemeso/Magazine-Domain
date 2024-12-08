@@ -14,7 +14,7 @@ You can perform various operations such as adding articles to magazines, setting
 #### Setup
 
 Clone the repository:
-Install dependencies 
+Installed dependencies:
 
 pipenv install
 pipenv shell
